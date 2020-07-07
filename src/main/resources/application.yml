@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+person:
+  lastName: jeff
+  age: 18
+  boss: false
+  birth: 1994/04/04
+  maps: {k1: v1,k2, v2}
+  lists:
+    - v3
+    - v4
+  dog:
+    name: dog1
+    age: 5
